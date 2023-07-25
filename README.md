@@ -4,7 +4,7 @@ This is a project that creates an AI-assisted medical image annotation tool usin
 
 The official repo of the SAM model can be found [here](https://github.com/facebookresearch/segment-anything)
 
-https://github.com/amine0110/yolo-sam/assets/37108394/e160092d-98c7-4217-bb7a-1683e22b4817
+<img width="519" alt="yolo_application" src="https://github.com/amine0110/yolo-sam/assets/37108394/d4499a88-d782-49c2-a3ef-b027f3a83be1">
 
 ## Features
 - Import and visualize DICOM images.
